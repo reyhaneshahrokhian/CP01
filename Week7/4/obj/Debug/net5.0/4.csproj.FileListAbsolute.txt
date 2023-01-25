@@ -1,0 +1,16 @@
+G:\codeForces\Week7\4\bin\Debug\net5.0\4.exe
+G:\codeForces\Week7\4\bin\Debug\net5.0\4.deps.json
+G:\codeForces\Week7\4\bin\Debug\net5.0\4.runtimeconfig.json
+G:\codeForces\Week7\4\bin\Debug\net5.0\4.runtimeconfig.dev.json
+G:\codeForces\Week7\4\bin\Debug\net5.0\4.dll
+G:\codeForces\Week7\4\bin\Debug\net5.0\ref\4.dll
+G:\codeForces\Week7\4\bin\Debug\net5.0\4.pdb
+G:\codeForces\Week7\4\obj\Debug\net5.0\4.csproj.AssemblyReference.cache
+G:\codeForces\Week7\4\obj\Debug\net5.0\4.GeneratedMSBuildEditorConfig.editorconfig
+G:\codeForces\Week7\4\obj\Debug\net5.0\4.AssemblyInfoInputs.cache
+G:\codeForces\Week7\4\obj\Debug\net5.0\4.AssemblyInfo.cs
+G:\codeForces\Week7\4\obj\Debug\net5.0\4.csproj.CoreCompileInputs.cache
+G:\codeForces\Week7\4\obj\Debug\net5.0\4.dll
+G:\codeForces\Week7\4\obj\Debug\net5.0\ref\4.dll
+G:\codeForces\Week7\4\obj\Debug\net5.0\4.pdb
+G:\codeForces\Week7\4\obj\Debug\net5.0\4.genruntimeconfig.cache
