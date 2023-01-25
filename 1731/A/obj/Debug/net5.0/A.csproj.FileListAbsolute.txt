@@ -1,0 +1,16 @@
+G:\codeForces\1731\A\bin\Debug\net5.0\A.exe
+G:\codeForces\1731\A\bin\Debug\net5.0\A.deps.json
+G:\codeForces\1731\A\bin\Debug\net5.0\A.runtimeconfig.json
+G:\codeForces\1731\A\bin\Debug\net5.0\A.runtimeconfig.dev.json
+G:\codeForces\1731\A\bin\Debug\net5.0\A.dll
+G:\codeForces\1731\A\bin\Debug\net5.0\ref\A.dll
+G:\codeForces\1731\A\bin\Debug\net5.0\A.pdb
+G:\codeForces\1731\A\obj\Debug\net5.0\A.csproj.AssemblyReference.cache
+G:\codeForces\1731\A\obj\Debug\net5.0\A.GeneratedMSBuildEditorConfig.editorconfig
+G:\codeForces\1731\A\obj\Debug\net5.0\A.AssemblyInfoInputs.cache
+G:\codeForces\1731\A\obj\Debug\net5.0\A.AssemblyInfo.cs
+G:\codeForces\1731\A\obj\Debug\net5.0\A.csproj.CoreCompileInputs.cache
+G:\codeForces\1731\A\obj\Debug\net5.0\A.dll
+G:\codeForces\1731\A\obj\Debug\net5.0\ref\A.dll
+G:\codeForces\1731\A\obj\Debug\net5.0\A.pdb
+G:\codeForces\1731\A\obj\Debug\net5.0\A.genruntimeconfig.cache
